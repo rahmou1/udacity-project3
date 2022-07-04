@@ -1,0 +1,11 @@
+App Structure
+
+s3: FrontEnd
+http://rahmou-udagram.s3-website-us-east-1.amazonaws.com
+
+
+RDS:
+database1.cog4amde5vk6.us-east-1.rds.amazonaws.com
+
+EB:
+http://test-api-dev.eba-m3ud9yv3.us-east-1.elasticbeanstalk.com/

@@ -1,0 +1,4 @@
+packages: npm, node
+eb v2.3
+postgres database
+aws cli

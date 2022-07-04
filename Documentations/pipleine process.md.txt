@@ -1,0 +1,14 @@
+Develope:
+create at first RDS database manual to connect to EB
+
+Repo
+Create a new repo on github and push the data from local to github using git 
+
+CircleCi
+
+1- at first check if repo got new change then it start steps to push the data
+2- build app by creating build 
+3- test app to check is there any error with app 
+4- push backend to EB
+5- push frontend to s3
+6- save your env
