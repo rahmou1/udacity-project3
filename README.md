@@ -70,7 +70,7 @@ The e2e tests are using Protractor and Jasmine.
   
  ###### Server
 
-http://udagram-server-dev.eba-74d7zs2w.us-east-1.elasticbeanstalk.com
+[http://udagram-server-dev.eba-74d7zs2w.us-east-1.elasticbeanstalk.com](http://test-api-dev.eba-m3ud9yv3.us-east-1.elasticbeanstalk.com/)
   
 ###### FrontEnd
   
